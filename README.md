@@ -1,2 +1,2 @@
 # ubuntu-plzbegood
-bad idea
+good
