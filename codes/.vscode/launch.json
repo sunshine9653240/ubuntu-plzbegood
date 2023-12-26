@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/travis/codes/programming",
-      "program": "/home/travis/codes/programming/build/Debug/outDebug",
+      "cwd": "/home/travis/codes",
+      "program": "/home/travis/codes/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
